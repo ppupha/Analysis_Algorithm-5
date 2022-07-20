@@ -1,0 +1,21 @@
+\babel@toc {russian}{}
+\contentsline {chapter}{Введение}{2}%
+\contentsline {chapter}{\numberline {1}Аналитическая часть}{3}%
+\contentsline {section}{\numberline {1.1}Описание алгоритмов}{3}%
+\contentsline {subsection}{\numberline {1.1.1}Алгоритм Винограда}{3}%
+\contentsline {subsection}{\numberline {1.1.2}Параллельная реализация алгоритма Винограда}{4}%
+\contentsline {section}{\numberline {1.2}Параллельное программирование}{4}%
+\contentsline {chapter}{\numberline {2}Конструкторская часть}{6}%
+\contentsline {section}{\numberline {2.1}Схема алгоритма}{6}%
+\contentsline {section}{\numberline {2.2}Распараллеливание алгоритма}{8}%
+\contentsline {chapter}{\numberline {3}Технологическая часть}{9}%
+\contentsline {section}{\numberline {3.1}Требования к программному обеспечению}{9}%
+\contentsline {section}{\numberline {3.2}Средства реализации}{9}%
+\contentsline {section}{\numberline {3.3}Реализации алгоритмов}{9}%
+\contentsline {section}{\numberline {3.4}Тесты}{16}%
+\contentsline {chapter}{\numberline {4}Экспериментальная часть}{17}%
+\contentsline {section}{\numberline {4.1}Примеры работы}{17}%
+\contentsline {section}{\numberline {4.2}Сравнение работы алгоритмов при чётных размерах матрицы}{18}%
+\contentsline {section}{\numberline {4.3}Сравнение работы алгоритмов при нечётных размерах матрицы}{19}%
+\contentsline {chapter}{Заключение}{21}%
+\contentsline {chapter}{Литература}{22}%

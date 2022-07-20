@@ -1,0 +1,17 @@
+\babel@toc {russian}{}
+\contentsline {chapter}{Введение}{2}%
+\contentsline {chapter}{\numberline {1}Аналитический раздел}{3}%
+\contentsline {section}{\numberline {1.1}Конвейерная обработка данных}{3}%
+\contentsline {section}{\numberline {1.2}Вывод}{3}%
+\contentsline {chapter}{\numberline {2}Конструкторская часть}{4}%
+\contentsline {section}{\numberline {2.1}Разработка конвейерной обработки данных}{4}%
+\contentsline {chapter}{\numberline {3}Технологический раздел}{5}%
+\contentsline {section}{\numberline {3.1}Требования к программному обеспечению}{5}%
+\contentsline {section}{\numberline {3.2}Средства реализации}{5}%
+\contentsline {section}{\numberline {3.3}Листинг кода}{5}%
+\contentsline {section}{\numberline {3.4}Вывод}{10}%
+\contentsline {chapter}{\numberline {4}Экспериментальный раздел}{11}%
+\contentsline {section}{\numberline {4.1}Сравнительный анализ}{11}%
+\contentsline {section}{\numberline {4.2}Вывод}{11}%
+\contentsline {chapter}{Заключение}{13}%
+\contentsline {chapter}{Литература}{14}%

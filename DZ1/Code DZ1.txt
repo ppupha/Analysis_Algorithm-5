@@ -1,0 +1,20 @@
+begin for u:=1 to n do begin
+    a[u, u] = True
+    for v:=1 to n n do
+        a[u, v] = a[u, v] or a[v, u]
+for k := 1 to n do
+    for u := 1 to n do
+        for v := 1 to n do
+            a[u, v] := a[u, v] or a[u, k] and a[k, v];
+Count := 0;
+for i:=1 to n do
+    Free[i] = True
+for u := 1 to n do
+    if Free[u] then begin
+        Inc(Count);
+        for v := 1 to n do
+            if a[u, v] then begin
+                Free[v] := False;
+            end;
+    end;
+end.

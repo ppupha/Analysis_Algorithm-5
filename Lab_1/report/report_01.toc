@@ -1,0 +1,17 @@
+\babel@toc {russian}{}
+\contentsline {chapter}{Введение}{2}%
+\contentsline {chapter}{\numberline {1}Аналитическая часть}{3}%
+\contentsline {section}{\numberline {1.1}Задачи}{3}%
+\contentsline {section}{\numberline {1.2}Описание алгоритмов}{3}%
+\contentsline {subsection}{\numberline {1.2.1}Расстояние Левенштейна}{3}%
+\contentsline {subsection}{\numberline {1.2.2}Расстояние Дамерау-Левенштейна}{4}%
+\contentsline {chapter}{\numberline {2}Конструкторская часть}{5}%
+\contentsline {section}{\numberline {2.1}Схемы алгоритмов}{5}%
+\contentsline {chapter}{\numberline {3}Технологическая часть}{10}%
+\contentsline {section}{\numberline {3.1}Средства реализации}{10}%
+\contentsline {section}{\numberline {3.2}Реализации алгоритмов}{10}%
+\contentsline {section}{\numberline {3.3}Тесты}{13}%
+\contentsline {chapter}{\numberline {4}Исследованая часть}{14}%
+\contentsline {section}{\numberline {4.1}Сравнение работы алгоритмов}{14}%
+\contentsline {section}{\numberline {4.2}Сравнение работы реализаций алгоритма Левенштейна}{14}%
+\contentsline {section}{\numberline {4.3}Вывод}{15}%
